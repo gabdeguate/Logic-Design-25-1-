@@ -15,3 +15,5 @@ Features
 * **Output:** Computation results are displayed in hexadecimal on the board's dual seven-segment displays.
 
 Programmed in Verilog
+
+** files with 'T' at the back signify they were used for testing portion of the implementation. 
